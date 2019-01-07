@@ -1,5 +1,5 @@
 {
-	"name": "clk528/Baidu-Image-Classify",
+	"name": "clk528/baidu-image-classify",
 	"description": "百度图像识别PHP版SDK;本sdk代码全部来自于百度；http://ai.baidu.com/sdk#vis",
 	"keywords": [
 		"百度",

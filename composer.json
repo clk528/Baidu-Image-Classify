@@ -1,0 +1,34 @@
+{
+	"name": "clk528/Baidu-Image-Classify",
+	"description": "百度图像识别PHP版SDK;本sdk代码全部来自于百度；http://ai.baidu.com/sdk#vis",
+	"keywords": [
+		"百度",
+		"图像识别",
+		"百度图像识别",
+		"Image-Classify",
+		"Classify",
+		"Image"
+	],
+	"type": "library",
+	"support": {
+		"issues": "https://github.com/clk528/Baidu-Image-Classify/issues",
+		"source": "https://github.com/clk528/Baidu-Image-Classify"
+	},
+	"authors": [
+		{
+			"name": "clk528",
+			"email": "clk528@qq.com"
+		}
+	],
+	"require": {
+		"php": ">=7.1",
+		"ext-openssl": "*",
+		"ext-simplexml": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"clk528\\ImageClassify\\": "src"
+		}
+	},
+	"license": "MIT"
+}
